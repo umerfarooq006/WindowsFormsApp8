@@ -144,12 +144,13 @@
             // 
             // button2
             // 
+            this.button2.BackColor = System.Drawing.Color.Black;
             this.button2.Location = new System.Drawing.Point(331, 59);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(147, 60);
             this.button2.TabIndex = 10;
             this.button2.Text = "button2";
-            this.button2.UseVisualStyleBackColor = true;
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
