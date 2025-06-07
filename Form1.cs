@@ -47,7 +47,7 @@ namespace WindowsFormsApp8
                         if (reader.HasRows)
                         {
                             
-                             label4.Text = "login successfully";
+                             label4.Text = "login successfull";
                             profile pf = new profile();
                             pf.Show();
                             this.Hide();
